@@ -1,2 +1,2 @@
 # ZaynMAF
-Aplikasi Codi untuk pemula
+Aplikasi Coding untuk pemula
